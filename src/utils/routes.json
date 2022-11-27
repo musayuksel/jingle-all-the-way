@@ -1,0 +1,58 @@
+
+  [{
+    "city": "Egvekinot",
+    "time": "Sun Dec 24 2022 21:00 GMT"
+  },
+  {
+    "city": "Auckland",
+    "time": "Sun Dec 24 2022 22:00 GMT"
+  },
+  {
+    "city": "Jakarta",
+    "time": "Sun Dec 24 2022 22:45 GMT"
+  },
+  {
+    "city": "Astana",
+    "time": "Sun Dec 24 2022 23:30 GMT"
+  },
+  {
+    "city": "Pretoria",
+    "time": "Sun Dec 25 2022 00:45 GMT"
+  },
+  {
+    "city": "Paris",
+    "time": "Sun Dec 25 2022 01:30 GMT"
+  },
+  {
+    "city": "Reykjavík",
+    "time": "Sun Dec 25 2022 02:30 GMT"
+  },
+  {
+    "city": "Fermont",
+    "time": "Sun Dec 25 2022 03:00 GMT"
+  },
+  {
+    "city": "New York City",
+    "time": "Sun Dec 25 2022 03:45 GMT"
+  },
+  {
+    "city": "Los Angeles",
+    "time": "Sun Dec 25 2022 04:45 GMT"
+  },
+  {
+    "city": "Mexico City",
+    "time": "Sun Dec 25 2022 05:30 GMT"
+  },
+  {
+    "city": "Bogota",
+    "time": "Sun Dec 25 2022 06:15 GMT"
+  },
+  {
+    "city": "Belo Horizonte",
+    "time": "Sun Dec 25 2022 06:45 GMT"
+  },
+  {
+    "city": "Ushuaia",
+    "time": "Sun Dec 25 2022 07:30 GMT"
+  }
+]
