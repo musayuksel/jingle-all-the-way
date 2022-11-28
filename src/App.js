@@ -11,8 +11,9 @@ function App() {
 
   return (
     <div className='App'>
+      <img className='santa-img' src="https://metro.co.uk/wp-content/uploads/2018/12/Santa-tracker-708b.png" alt="santa map"/>
+      
       <label htmlFor='santaCurrentTime'>Choose a time </label>
-
       <input
         type='datetime-local'
         id='santaCurrentTime'
